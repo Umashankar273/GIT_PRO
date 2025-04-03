@@ -28,6 +28,7 @@ def calculator():
     else:
 
         return "Invalid operator!"
+    print("hello")
 
 
 print(calculator())
